@@ -1,0 +1,216 @@
+gender,ssc_percentage,ssc_board,hsc_percentage,hsc_board,hsc_subject,percentage,work_experience,department,status
+M,67,Others,91,Others,Commerce,58,No,CSE,Placed
+M,79.33,Central,78.33,Others,Science,77.48,Yes,ECE,Placed
+M,65,Central,68,Central,Arts,64,No,CSE,Placed
+M,56,Central,52,Central,Science,52,No,CSE,Not Placed
+M,85.8,Central,73.6,Central,Commerce,73.3,No,CSE,Placed
+M,55,Others,49.8,Others,Science,67.25,Yes,CSE,Not Placed
+F,46,Others,49.2,Others,Commerce,79,No,CSE,Not Placed
+M,82,Central,64,Central,Science,66,Yes,CSE,Placed
+M,73,Central,79,Central,Commerce,72,No,CSE,Placed
+M,58,Central,70,Central,Commerce,61,No,ECE,Not Placed
+M,58,Central,61,Central,Commerce,60,Yes,CSE,Placed
+M,69.6,Central,68.4,Central,Commerce,78.3,Yes,CSE,Placed
+F,47,Central,55,Others,Science,65,No,CSE,Not Placed
+F,77,Central,87,Central,Commerce,59,No,CSE,Placed
+M,62,Central,47,Central,Commerce,50,No,CSE,Not Placed
+F,65,Central,75,Central,Commerce,69,Yes,CSE,Placed
+M,63,Central,66.2,Central,Commerce,65.6,Yes,CSE,Placed
+F,55,Central,67,Central,Commerce,64,No,CSE,Not Placed
+F,63,Central,66,Central,Commerce,64,No,CSE,Not Placed
+M,60,Others,67,Others,Arts,70,Yes,CSE,Placed
+M,62,Others,65,Others,Commerce,66,No,CSE,Placed
+F,79,Others,76,Others,Commerce,85,No,CSE,Placed
+F,69.8,Others,60.8,Others,Science,72.23,No,CSE,Placed
+F,77.4,Others,60,Others,Science,64.74,Yes,CSE,Placed
+M,76.5,Others,97.7,Others,Science,78.86,No,CSE,Placed
+F,52.58,Others,54.6,Central,Commerce,50.2,Yes,CSE,Not Placed
+M,71,Others,79,Others,Commerce,66,Yes,CSE,Placed
+M,63,Others,67,Others,Commerce,66,No,CSE,Placed
+M,76.76,Others,76.5,Others,Commerce,67.5,Yes,CSE,Placed
+M,62,Central,67,Central,Commerce,58,No,CSE,Not Placed
+F,64,Central,73.5,Central,Commerce,73,No,CSE,Placed
+F,67,Central,53,Central,Science,65,No,CSE,Not Placed
+F,61,Central,81,Central,Commerce,66.4,No,CSE,Placed
+F,87,Others,65,Others,Science,81,Yes,CSE,Placed
+M,62,Others,51,Others,Science,52,No,CSE,Not Placed
+F,69,Central,78,Central,Commerce,72,No,CSE,Placed
+M,51,Central,44,Central,Commerce,57,No,CSE,Not Placed
+F,79,Central,76,Central,Science,65.6,No,CSE,Placed
+F,73,Others,58,Others,Science,66,No,CSE,Placed
+M,81,Others,68,Others,Science,64,No,CSE,Placed
+F,78,Central,77,Others,Commerce,80,No,CSE,Placed
+F,74,Others,63.16,Others,Commerce,65,Yes,CSE,Not Placed
+M,49,Others,39,Central,Science,65,No,CSE,Not Placed
+M,87,Others,87,Others,Commerce,68,No,CSE,Placed
+F,77,Others,73,Others,Commerce,81,Yes,CSE,Placed
+F,76,Central,64,Central,Science,72,No,CSE,Not Placed
+F,70.89,Others,71.98,Others,Science,65.6,No,CSE,Not Placed
+M,63,Central,60,Central,Commerce,57,Yes,CSE,Placed
+M,63,Others,62,Others,Commerce,68,No,CSE,Placed
+F,50,Others,37,Others,Arts,52,No,CSE,Not Placed
+F,75.2,Central,73.2,Central,Science,68.4,No,CSE,Placed
+M,54.4,Central,61.12,Central,Commerce,56.2,No,CSE,Not Placed
+F,40.89,Others,45.83,Others,Commerce,53,No,CSE,Not Placed
+M,80,Others,70,Others,Science,72,No,CSE,Placed
+F,74,Central,60,Others,Science,69,No,CSE,Placed
+M,60.4,Central,66.6,Others,Science,65,No,CSE,Placed
+M,63,Others,71.4,Others,Commerce,61.4,No,CSE,Placed
+M,68,Central,76,Central,Commerce,74,No,CSE,Placed
+M,74,Central,62,Others,Science,68,No,CSE,Placed
+M,52.6,Central,65.58,Others,Science,72.11,No,CSE,Placed
+M,74,Central,70,Central,Science,72,Yes,CSE,Placed
+M,84.2,Central,73.4,Central,Commerce,66.89,No,CSE,Placed
+F,86.5,Others,64.2,Others,Science,67.4,No,CSE,Placed
+M,61,Others,70,Others,Commerce,64,No,CSE,Not Placed
+M,80,Others,73,Others,Commerce,75,No,CSE,Placed
+M,54,Others,47,Others,Science,57,No,CSE,Not Placed
+M,83,Others,74,Others,Science,66,No,CSE,Placed
+M,80.92,Others,78.5,Others,Commerce,67,No,CSE,Placed
+F,69.7,Central,47,Central,Commerce,72.7,No,CSE,Not Placed
+M,73,Central,73,Central,Science,66,Yes,CSE,Placed
+M,82,Others,61,Others,Science,62,No,CSE,Placed
+M,75,Others,70.29,Others,Commerce,71,No,CSE,Placed
+M,84.86,Others,67,Others,Science,78,No,CSE,Placed
+M,64.6,Central,83.83,Others,Commerce,71.72,No,CSE,Placed
+M,56.6,Central,64.8,Central,Commerce,70.2,No,CSE,Placed
+F,59,Central,62,Others,Commerce,77.5,No,CSE,Not Placed
+F,66.5,Others,70.4,Central,Arts,71.93,No,CSE,Placed
+M,64,Others,80,Others,Science,65,Yes,CSE,Placed
+M,84,Others,90.9,Others,Science,64.5,No,CSE,Placed
+F,69,Central,62,Central,Science,66,No,CSE,Not Placed
+F,69,Others,62,Others,Commerce,69,Yes,CSE,Placed
+M,81.7,Others,63,Others,Science,67,Yes,CSE,Placed
+M,63,Central,67,Central,Commerce,74,No,CSE,Not Placed
+M,84,Others,79,Others,Science,68,Yes,CSE,Placed
+M,70,Central,63,Others,Science,70,Yes,CSE,Placed
+F,83.84,Others,89.83,Others,Commerce,77.2,Yes,CSE,Placed
+M,62,Others,63,Others,Commerce,64,No,CSE,Placed
+M,59.6,Central,51,Central,Science,60,No,CSE,Not Placed
+F,66,Central,62,Central,Commerce,73,No,CSE,Placed
+F,84,Others,75,Others,Science,69,Yes,CSE,Placed
+F,85,Others,90,Others,Commerce,82,No,CSE,Placed
+M,52,Central,57,Central,Commerce,50.8,No,CSE,Not Placed
+F,60.23,Central,69,Central,Science,66,No,CSE,Placed
+M,52,Central,62,Central,Commerce,54,No,CSE,Not Placed
+M,58,Central,62,Central,Commerce,64,No,CSE,Placed
+M,73,Central,78,Others,Commerce,65,Yes,CSE,Placed
+F,76,Central,70,Central,Science,76,Yes,CSE,Placed
+F,70.5,Central,62.5,Others,Commerce,61,No,CSE,Not Placed
+F,69,Central,73,Central,Commerce,65,No,CSE,Placed
+M,54,Central,82,Others,Commerce,63,No,CSE,Not Placed
+F,45,Others,57,Others,Commerce,58,Yes,CSE,Not Placed
+M,63,Central,72,Central,Commerce,68,No,CSE,Placed
+F,77,Others,61,Others,Commerce,68,Yes,CSE,Placed
+M,73,Central,78,Central,Science,73,Yes,CSE,Placed
+M,69,Central,63,Others,Science,65,Yes,CSE,Placed
+M,59,Central,64,Others,Science,58,No,CSE,Not Placed
+M,61.08,Others,50,Others,Science,54,No,CSE,Not Placed
+M,82,Others,90,Others,Commerce,83,No,CSE,Placed
+M,61,Central,82,Central,Commerce,69,No,CSE,Placed
+M,52,Central,63,Others,Science,65,Yes,CSE,Not Placed
+F,69.5,Central,70,Central,Science,72,No,CSE,Placed
+M,51,Others,54,Others,Science,61,No,CSE,Not Placed
+M,58,Others,61,Others,Commerce,61,No,CSE,Placed
+F,73.96,Others,79,Others,Commerce,67,No,CSE,Placed
+M,65,Central,68,Others,Science,69,No,CSE,Placed
+F,73,Others,63,Others,Science,66,No,CSE,Placed
+M,68.2,Central,72.8,Central,Commerce,66.6,Yes,CSE,Placed
+M,77,Others,75,Others,Science,73,No,CSE,Placed
+M,76,Central,80,Central,Science,78,Yes,CSE,Placed
+M,60.8,Central,68.4,Central,Commerce,64.6,Yes,CSE,Placed
+M,58,Others,40,Others,Science,59,No,CSE,Not Placed
+F,64,Central,67,Others,Science,69.6,Yes,CSE,Placed
+F,66.5,Central,66.8,Central,Arts,69.3,Yes,CSE,Placed
+M,74,Others,59,Others,Commerce,73,Yes,CSE,Placed
+M,67,Central,71,Central,Science,64.33,Yes,CSE,Placed
+F,84,Central,73,Central,Commerce,73,No,CSE,Placed
+F,79,Others,61,Others,Science,75.5,Yes,CSE,Placed
+F,72,Others,60,Others,Science,69,No,CSE,Placed
+M,80.4,Central,73.4,Central,Science,77.72,Yes,CSE,Placed
+M,76.7,Central,89.7,Others,Commerce,66,Yes,CSE,Placed
+M,62,Central,65,Others,Commerce,60,No,CSE,Not Placed
+F,74.9,Others,57,Others,Science,62,Yes,CSE,Placed
+M,67,Others,68,Others,Commerce,64,Yes,CSE,Placed
+M,73,Central,64,Others,Commerce,77,Yes,CSE,Placed
+F,77.44,Central,92,Others,Commerce,72,Yes,CSE,Placed
+F,72,Central,56,Others,Science,69,No,CSE,Placed
+F,47,Central,59,Central,Arts,64,No,CSE,Not Placed
+M,67,Others,63,Central,Commerce,72,No,CSE,Placed
+F,82,Others,64,Others,Science,73,Yes,CSE,Placed
+M,77,Central,70,Central,Commerce,59,Yes,CSE,Placed
+M,65,Central,64.8,Others,Commerce,69.5,Yes,CSE,Placed
+M,66,Central,64,Central,Science,60,No,CSE,Not Placed
+M,85,Central,60,Others,Science,73.43,Yes,CSE,Placed
+M,77.67,Others,64.89,Others,Commerce,70.67,No,CSE,Placed
+M,52,Others,50,Others,Arts,61,No,CSE,Not Placed
+M,89.4,Others,65.66,Others,Science,71.25,No,CSE,Placed
+M,62,Central,63,Others,Science,66,No,CSE,Placed
+M,70,Central,74,Central,Commerce,65,No,CSE,Placed
+F,77,Central,86,Central,Arts,56,No,CSE,Placed
+M,44,Central,58,Central,Arts,55,Yes,CSE,Not Placed
+M,71,Central,58.66,Central,Science,58,Yes,CSE,Placed
+M,65,Central,65,Central,Commerce,75,No,CSE,Placed
+F,75.4,Others,60.5,Central,Science,84,No,CSE,Placed
+M,49,Others,59,Others,Science,65,Yes,CSE,Placed
+M,53,Central,63,Others,Science,60,Yes,CSE,Placed
+M,51.57,Others,74.66,Others,Commerce,59.9,Yes,CSE,Not Placed
+M,84.2,Central,69.4,Central,Science,65,Yes,CSE,Placed
+M,66.5,Central,62.5,Central,Commerce,60.9,No,CSE,Placed
+M,67,Others,63,Others,Science,64,No,CSE,Not Placed
+M,52,Central,49,Others,Commerce,58,No,CSE,Not Placed
+M,87,Central,74,Central,Science,65,Yes,CSE,Placed
+M,55.6,Others,51,Others,Commerce,57.5,No,CSE,Not Placed
+M,74.2,Central,87.6,Others,Commerce,77.25,Yes,CSE,Placed
+M,63,Others,67,Others,Science,64,No,CSE,Placed
+F,67.16,Central,72.5,Central,Commerce,63.35,No,CSE,Placed
+F,63.3,Central,78.33,Others,Commerce,74,No,CSE,Not Placed
+M,62,Others,62,Others,Commerce,60,Yes,CSE,Placed
+M,67.9,Others,62,Others,Science,67,Yes,CSE,Not Placed
+F,48,Central,51,Central,Commerce,58,Yes,CSE,Not Placed
+M,59.96,Others,42.16,Others,Science,61.26,No,CSE,Not Placed
+F,63.4,Others,67.2,Others,Commerce,60,No,CSE,Not Placed
+M,80,Others,80,Others,Commerce,72,Yes,CSE,Placed
+M,73,Others,58,Others,Commerce,56,No,CSE,Placed
+F,52,Others,52,Others,Science,55,No,CSE,Not Placed
+M,73.24,Others,50.83,Others,Science,64.27,Yes,CSE,Placed
+M,63,Others,62,Others,Science,65,No,CSE,Not Placed
+F,59,Central,60,Others,Commerce,56,No,CSE,Placed
+F,73,Central,97,Others,Commerce,79,Yes,CSE,Placed
+M,68,Others,56,Others,Science,68,No,CSE,Placed
+F,77.8,Central,64,Central,Science,64.2,No,CSE,Not Placed
+M,65,Central,71.5,Others,Commerce,62.8,Yes,CSE,Placed
+M,62,Central,60.33,Others,Science,64.21,No,CSE,Not Placed
+M,52,Others,65,Others,Arts,57,Yes,CSE,Not Placed
+M,65,Central,77,Central,Commerce,69,No,CSE,Placed
+F,56.28,Others,62.83,Others,Commerce,59.79,No,CSE,Not Placed
+F,88,Central,72,Central,Science,78,No,CSE,Placed
+F,52,Central,64,Central,Commerce,61,No,CSE,Not Placed
+M,78.5,Central,65.5,Central,Science,67,Yes,CSE,Placed
+M,61.8,Others,47,Others,Commerce,54.38,No,CSE,Not Placed
+F,54,Central,77.6,Others,Commerce,69.2,No,CSE,Not Placed
+F,64,Others,70.2,Central,Commerce,61,No,CSE,Not Placed
+M,67,Others,61,Central,Science,72,No,CSE,Placed
+M,65.2,Central,61.4,Central,Commerce,64.8,Yes,CSE,Placed
+F,60,Central,63,Central,Arts,56,Yes,CSE,Placed
+M,52,Others,55,Others,Commerce,56.3,No,CSE,Not Placed
+M,66,Central,76,Central,Commerce,72,Yes,CSE,Placed
+M,72,Others,63,Others,Science,77.5,Yes,CSE,Placed
+F,83.96,Others,53,Others,Science,91,No,CSE,Placed
+F,67,Central,70,Central,Commerce,65,No,CSE,Not Placed
+M,69,Others,65,Others,Commerce,57,No,CSE,Placed
+M,69,Others,60,Others,Commerce,65,No,CSE,Placed
+M,54.2,Central,63,Others,Science,58,No,CSE,Not Placed
+M,70,Central,63,Central,Science,66,No,CSE,Placed
+M,55.68,Others,61.33,Others,Commerce,56.87,No,CSE,Placed
+F,74,Others,73,Others,Commerce,73,Yes,CSE,Placed
+M,61,Others,62,Others,Commerce,65,No,CSE,Placed
+M,41,Central,42,Central,Science,60,No,CSE,Not Placed
+M,83.33,Central,78,Others,Commerce,61,Yes,CSE,Placed
+F,43,Central,60,Others,Science,65,No,CSE,Not Placed
+M,62,Central,72,Central,Commerce,65,No,CSE,Placed
+M,80.6,Others,82,Others,Commerce,77.6,No,CSE,Placed
+M,58,Others,60,Others,Science,72,No,CSE,Placed
+M,67,Others,67,Others,Commerce,73,Yes,CSE,Placed
+F,74,Others,66,Others,Commerce,58,No,CSE,Placed
+M,62,Central,58,Others,Science,53,No,CSE,Not Placed
